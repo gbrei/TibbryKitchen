@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vault%2C_Prior%27s_Kitchen_Durham_Cathedral.jpg/1280px-Vault%2C_Prior%27s_Kitchen_Durham_Cathedral.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -38,20 +38,20 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 46.727485 #to determine center of map
-longitude: -117.014185 #to determine center of map
-zoom-level: 7 # zoom level for map 
-map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
-map-search: true # true/false, not suggested with large collections
-map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
-map-cluster: true # true/false, suggested for large collection or with many items in same location
-map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
+#latitude: 46.727485 #to determine center of map
+#longitude: -117.014185 #to determine center of map
+#zoom-level: 7 # zoom level for map 
+#map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
+#map-search: true # true/false, not suggested with large collections
+#map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
+#map-cluster: true # true/false, suggested for large collection or with many items in same location
+#map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 
 ##########
 # TIMELINE PAGE
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: 5 # set increments when auto gen nav years
+#year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+#year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
 # DATA 
@@ -72,12 +72,12 @@ metadata-facets-fields: "subject,creator,format"
 navbar-color: navbar-dark
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-success
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: litera
 
 # THEME FONTS
 base-font-size: 1.2em
