@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-#{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+#{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/GarlandStoveAd.jpg/1024px-GarlandStoveAd.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -17,13 +17,6 @@ credits: true
 This collection consists of recipe cards and printouts that I have affixed to my kitchen cabinets.  They are recipes that are tried and true, constantly being improved and updated, and have fed many friend/relative.  
 
 Some of the recipes are passed down from generation to generation. Some are found on the internet and adapted/edited/"improved."  I like to think of recipes as a form of oral tradition that eventually gets written down and then adapted as needed.  
-
-
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
 
 
