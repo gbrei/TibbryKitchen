@@ -1,5 +1,5 @@
 objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingrediants,food_type,subject,servings,overnight_prep,complexity
-recipe_01,image/jpeg,recipe_01.jpeg,Playdough,Genevieve's Mom,n/a,n/a,5,Activity,toy,n/a,n,0
+recipe_01,image/jpeg,recipe_01.jpeg,Playdough,Genevieve's Mom,n/a,n/a,5,Activity,toy,1,n,0
 recipe_02,image/jpeg,recipe_02.jpeg,Baked Fish,Genevieve's Mom,15 min,0 days,5,Food,entree,2,n,1
 recipe_03,image/jpeg,recipe_03.jpeg,Enchilada Pie,Genevieve's Grandmother,20 min,1 week,7,Food,entree,6,n,1
 recipe_04,image/jpeg,recipe_04.jpeg,Sloppy Joe Pie,Genevieve,30 min,1 week,15,Food,entree,4,n,1
@@ -14,7 +14,7 @@ recipe_09,application/pdf,recipe_09.pdf,Latkes,Tom,40 min,3 days,5,Food,entree,4
 recipe_10,application/pdf,recipe_10.pdf,ClammaJamma,Tom,35 min,3 days,14,Food,soup,4,n,4
 recipe_11,application/pdf,recipe_11.pdf,Brioche,Tom,270 min,7 days,10,Food,bread,4,y,4
 recipe_12,application/pdf,recipe_12.pdf,Scallywag Pasta,Tom,20 min,0 days,11,Food,side,2,n,2
-recipe_13,image/jpeg,recipe_13.jpeg,Honey Frosting,Genevieve,10 min,n/a,4,Food,dessert,n/a,n,1
+recipe_13,image/jpeg,recipe_13.jpeg,Honey Frosting,Genevieve,10 min,1,4,Food,dessert,n/a,n,1
 recipe_14,image/jpeg,recipe_14.jpeg,Drop Biscuits,Genevieve,15 min,4 days,5,Food,side,6,n,1
 recipe_15,image/jpeg,recipe_15.jpeg,Tikka Masala,Katie Crawford,240 min,3 days,13,Food,entree,6,n,1
 recipe_16,image/jpeg,recipe_16.jpeg,Lemonade,Genevieve,10 min,7 days,3,Food,cold drink,4,n,1
