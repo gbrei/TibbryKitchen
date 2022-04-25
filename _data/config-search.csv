@@ -1,8 +1,8 @@
 field,index,display
 title,true,true
 recipe_source,true,true
-recipe_cooktime,true,false
+recipe_cooktime,true,true
 recipe_storetime,true,true
 subject,true,true
-complexity,true,false
-overnight,true,false
+complexity,true,true
+overnight,true,true
